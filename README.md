@@ -7,10 +7,10 @@
   <li>Original Figma file containing Events Page UI design and Component List</li>
   <li>Events Page UI Design in PNG form</li>
   <li>Original components created by me as part of the new design</li>
-\pard\tx940\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1440\fi-1440\pardirnatural\partightenfactor0
-\ls1\ilvl1\cf0 {\listtext	\uc0\u8259 	}Navigation Menu re-design\
-{\listtext	\uc0\u8259 	}Total Views Counter (New Section)\
-{\listtext	\uc0\u8259 	}Viewers Per Device (Re-vamped Resolution/Viewer counter)\
+  <ul>
+    <li>Navigation Menu re-design</li>
+    <li>Total Views Counter (New Section)</li>
+    <li>Viewers Per Device (Re-vamped Resolution/Viewer counter)</li>
 {\listtext	\uc0\u8259 	}Viewing Time Chart (Re-vamped \'93How long did they watch?\'94 counter)\
 {\listtext	\uc0\u8259 	}YouTube Studio reference screenshots to show specific layout concepts and inspiration for components\
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
