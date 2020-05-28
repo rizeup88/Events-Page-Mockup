@@ -18,6 +18,6 @@
   
 <h3>Included in this README folder are also my current designer portfolio with my most recent work, which also includes a link to my GitHub repo where page components are viewable</h3>
 <ul>
-  <li>Portfolio Link: <a href="http://chasesmithstudios.com/">
-  <li>GitHub Repo: <a href="https://github.com/rizeup88/css_portfolio_v2">
+  <li>Chase Smith Studios <a href="http://chasesmithstudios.com/">
+  <li>GitHub Repo <a href="https://github.com/rizeup88/css_portfolio_v2">
 <ul>
