@@ -1,17 +1,8 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2512
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 SFProDisplay-Regular;\f1\froman\fcharset0 Times-Roman;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue233;}
-{\*\expandedcolortbl;;\cssrgb\c0\c0\c93333;}
-{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{hyphen\}}{\leveltext\leveltemplateid2\'01\uc0\u8259 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid1}
-{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid2}}
-{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}}
-\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
-
-\f0\fs28 \cf0 Living As One (Mockup Exercise)
-\fs24 \
-\
-This repository contains a full-scale desktop mockup of the Events page found in the Control Panel of Living As One\'92s analytics tracker.\
+<h1>Living As One (Mockup Exercise)</h1>
+<p>
+  <hr>
+<p>
+<h2>This repository contains a full-scale desktop mockup of the Events page found in the Control Panel of Living As One\'92s analytics tracker.</h2>
 \
 Contents of folder:\
 \
