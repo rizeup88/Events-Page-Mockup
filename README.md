@@ -1,7 +1,5 @@
 <h1>Living As One (Mockup Exercise)</h1>
 <p>
-  <hr>
-<p>
 <h2>This repository contains a full-scale desktop mockup of the Events page found in the Control Panel of Living As One\'92s analytics tracker.</h2>
 \
 Contents of folder:\
