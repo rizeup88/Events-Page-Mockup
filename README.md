@@ -1,13 +1,12 @@
 <h1>Living As One (Mockup Exercise)</h1>
 <p>
-<h2>This repository contains a full-scale desktop mockup of the Events page found in the Control Panel of Living As One\'92s analytics tracker.</h2>
-\
-Contents of folder:\
-\
-\pard\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li720\fi-720\pardirnatural\partightenfactor0
-\ls1\ilvl0\cf0 {\listtext	\uc0\u8226 	}Original Figma file containing Events Page UI design and Component List\
-{\listtext	\uc0\u8226 	}Events Page UI Design in PNG form\
-{\listtext	\uc0\u8226 	}Original components created by me as part of the new design\
+<h3>This repository contains a full-scale desktop mockup of the Events page found in the Control Panel of Living As One\'92s analytics tracker.</h2>
+
+<h3>Contents of folder</h3>
+<ul>
+  <li>Original Figma file containing Events Page UI design and Component List</li>
+  <li>Events Page UI Design in PNG form</li>
+  <li>Original components created by me as part of the new design</li>
 \pard\tx940\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1440\fi-1440\pardirnatural\partightenfactor0
 \ls1\ilvl1\cf0 {\listtext	\uc0\u8259 	}Navigation Menu re-design\
 {\listtext	\uc0\u8259 	}Total Views Counter (New Section)\
